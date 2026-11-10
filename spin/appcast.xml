@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Spin</title>
+    <link>https://raw.githubusercontent.com/Neto/mac-app-updates/main/spin/appcast.xml</link>
+    <item>
+      <title>Spin 1.7</title>
+      <pubDate>Tue, 10 Nov 2026 00:50:16 +0000</pubDate>
+      <sparkle:version>8</sparkle:version>
+      <sparkle:shortVersionString>1.7</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Spin now holds files as well as folders. Click a file to open it.</p>]]></description>
+      <enclosure url="https://github.com/Neto/mac-app-updates/releases/download/spin-1.7-8/Spin-1.7-8.zip" type="application/octet-stream" sparkle:edSignature="bc1WfoWtF7pB3TS+EV5DsdsUJ7GxI4L4i2AwvIsczSEQHZ1ofVciHR/nzT366Xl5pyNgiA/hQCRfLZxYmwBnAQ==" length="2148656" />
+    </item>
+  </channel>
+</rss>
