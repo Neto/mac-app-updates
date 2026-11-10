@@ -4,13 +4,13 @@
     <title>Spin</title>
     <link>https://raw.githubusercontent.com/Neto/mac-app-updates/main/spin/appcast.xml</link>
     <item>
-      <title>Spin 1.9.1</title>
-      <pubDate>Tue, 10 Nov 2026 18:46:19 +0000</pubDate>
-      <sparkle:version>11</sparkle:version>
-      <sparkle:shortVersionString>1.9.1</sparkle:shortVersionString>
+      <title>Spin 1.9.2</title>
+      <pubDate>Tue, 10 Nov 2026 20:55:42 +0000</pubDate>
+      <sparkle:version>12</sparkle:version>
+      <sparkle:shortVersionString>1.9.2</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<p>A flat ring with nothing around it, on any Desktop.</p>]]></description>
-      <enclosure url="https://github.com/Neto/mac-app-updates/releases/download/spin-1.9.1-11/Spin-1.9.1-11.zip" type="application/octet-stream" sparkle:edSignature="uwSGsPlzcxC62X6Q0vMHL+98EQnuRU/3Xu3IlCD9v5hmKcxWZ68OVdsySamj6NF+w68PeDmeuk4WOJBGFIbiAw==" length="2185987" />
+      <description><![CDATA[<p>Spin now appears in the Dock. Click the Dock icon to open Settings.</p>]]></description>
+      <enclosure url="https://github.com/Neto/mac-app-updates/releases/download/spin-1.9.2-12/Spin-1.9.2-12.zip" type="application/octet-stream" sparkle:edSignature="k4W5zrLAP3fblkQqKo7so0Se+gNLC+eP4P0dxdxelFX6ZCzU2F95nKOXKk4LC60JQK/EdCzKeO9ERgS5svv1AA==" length="2186687" />
     </item>
   </channel>
 </rss>
