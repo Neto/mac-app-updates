@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Grabb</title>
+    <link>https://raw.githubusercontent.com/Neto/mac-app-updates/main/grabb/appcast.xml</link>
+    <item>
+      <title>Grabb 1.9.0</title>
+      <pubDate>Tue, 10 Nov 2026 01:00:43 +0000</pubDate>
+      <sparkle:version>21</sparkle:version>
+      <sparkle:shortVersionString>1.9.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Grabb 1.9.0</p>]]></description>
+      <enclosure url="https://github.com/Neto/mac-app-updates/releases/download/grabb-1.9.0-21/Grabb-1.9.0-21.zip" type="application/octet-stream" sparkle:edSignature="nmgBf3gIiJAa/bYMGutbhnYLl82fdJgOVkhBoq8YMficY+PpL12TXy0W82LXUASH806gH+NzThs8OLY0DAIICg==" length="80377337" />
+    </item>
+  </channel>
+</rss>
