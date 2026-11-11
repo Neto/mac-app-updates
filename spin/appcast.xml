@@ -4,13 +4,13 @@
     <title>Spin</title>
     <link>https://raw.githubusercontent.com/Neto/mac-app-updates/main/spin/appcast.xml</link>
     <item>
-      <title>Spin 1.9.3</title>
-      <pubDate>Wed, 11 Nov 2026 16:27:45 +0000</pubDate>
-      <sparkle:version>13</sparkle:version>
-      <sparkle:shortVersionString>1.9.3</sparkle:shortVersionString>
+      <title>Spin 1.9.4</title>
+      <pubDate>Wed, 11 Nov 2026 16:51:00 +0000</pubDate>
+      <sparkle:version>14</sparkle:version>
+      <sparkle:shortVersionString>1.9.4</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<p>Rename items in the spiral. The file on disk keeps its name.</p>]]></description>
-      <enclosure url="https://github.com/Neto/mac-app-updates/releases/download/spin-1.9.3-13/Spin-1.9.3-13.zip" type="application/octet-stream" sparkle:edSignature="k1medt9QyJ1dYKAxBs10WEAbzkcQwgAtMExAazkrMassOGCe9NzCaTn2iwwZ+VOvwZTYbFeicwuvkYjWNVYXCA==" length="2190488" />
+      <description><![CDATA[<p>Fixes the ring that disappeared on hover after Spin ran for a while.</p>]]></description>
+      <enclosure url="https://github.com/Neto/mac-app-updates/releases/download/spin-1.9.4-14/Spin-1.9.4-14.zip" type="application/octet-stream" sparkle:edSignature="HT576bGRwwrtin+jKadMq6PamImAn8npCnaEN3MzbAxrAo1W4BNcisbp+cLyH/h4orDvvhEPK8wCAFXKGuXnAQ==" length="2187996" />
     </item>
   </channel>
 </rss>
