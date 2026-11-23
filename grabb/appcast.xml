@@ -4,13 +4,13 @@
     <title>Grabb</title>
     <link>https://raw.githubusercontent.com/Neto/mac-app-updates/main/grabb/appcast.xml</link>
     <item>
-      <title>Grabb 1.10.1</title>
-      <pubDate>Wed, 18 Nov 2026 19:13:43 +0000</pubDate>
-      <sparkle:version>23</sparkle:version>
-      <sparkle:shortVersionString>1.10.1</sparkle:shortVersionString>
+      <title>Grabb 1.10.2</title>
+      <pubDate>Mon, 23 Nov 2026 22:43:54 +0000</pubDate>
+      <sparkle:version>24</sparkle:version>
+      <sparkle:shortVersionString>1.10.2</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<p>Downloads work again on Macs without Homebrew (certificate error fixed).</p>]]></description>
-      <enclosure url="https://github.com/Neto/mac-app-updates/releases/download/grabb-1.10.1-23/Grabb-1.10.1-23.zip" type="application/octet-stream" sparkle:edSignature="zW9RvGIDctP09VjcAyojNu5XVn0hUrkBb5ndD0z4j1U38nF/hfXLHnvemKsu+s5wG3rPsTJ5LTXjP/FuQnnqBQ==" length="85487548" />
+      <description><![CDATA[<p>Grabb 1.10.2</p>]]></description>
+      <enclosure url="https://github.com/Neto/mac-app-updates/releases/download/grabb-1.10.2-24/Grabb-1.10.2-24.zip" type="application/octet-stream" sparkle:edSignature="sc2mX7Kk9ALMhN5g1Kp4+x7Tw2mCKyUjWUcgEXMzExzQnhy2SKeyAxIEiH9qtePaK5pYNLivSyI2SJ+ebYRQAQ==" length="85487709" />
     </item>
   </channel>
 </rss>
