@@ -4,13 +4,13 @@
     <title>Spin</title>
     <link>https://raw.githubusercontent.com/Neto/mac-app-updates/main/spin/appcast.xml</link>
     <item>
-      <title>Spin 1.9.6</title>
-      <pubDate>Mon, 23 Nov 2026 19:59:09 +0000</pubDate>
-      <sparkle:version>16</sparkle:version>
-      <sparkle:shortVersionString>1.9.6</sparkle:shortVersionString>
+      <title>Spin 1.9.7</title>
+      <pubDate>Mon, 23 Nov 2026 22:38:28 +0000</pubDate>
+      <sparkle:version>17</sparkle:version>
+      <sparkle:shortVersionString>1.9.7</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<p>Spin 1.9.6</p>]]></description>
-      <enclosure url="https://github.com/Neto/mac-app-updates/releases/download/spin-1.9.6-16/Spin-1.9.6-16.zip" type="application/octet-stream" sparkle:edSignature="MgyxjeIZg5dSk3ySHwUd4NJpEeTIRCuZMTE0V3aFi4n7eHihg7u3GNCyvutR9oenHWOutvoaCD9VgOJuEPN2Aw==" length="2217954" />
+      <description><![CDATA[<p>Spin 1.9.7</p>]]></description>
+      <enclosure url="https://github.com/Neto/mac-app-updates/releases/download/spin-1.9.7-17/Spin-1.9.7-17.zip" type="application/octet-stream" sparkle:edSignature="627WUKdYwRguxBNOq6OOIrBIP8gA8U7UaB1XbmOTmeU/SYhicAAm9HQqDa1VVoF88qrhVfKCxKKc8HJkqshSAg==" length="2217966" />
     </item>
   </channel>
 </rss>
